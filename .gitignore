@@ -4,3 +4,5 @@
 
 # ignore JetBrains IDEs (GoLand) config folder
 .idea
+
+debian/files

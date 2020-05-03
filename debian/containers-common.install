@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+default-policy.json => etc/containers/policy.json
+default.yaml => etc/containers/registries.d/default.yaml
