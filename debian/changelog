@@ -1,3 +1,9 @@
+skopeo (0.2.0-1) eoan; urgency=medium
+
+  * Bump to v0.2.0-1
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 03 May 2020 21:04:21 -0400
+
 skopeo (0.2.0-0) eoan; urgency=medium
 
   * v0.2.0 debian/ubuntu packaging
