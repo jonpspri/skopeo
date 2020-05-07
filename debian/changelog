@@ -1,3 +1,9 @@
+skopeo (0.2.0-2) eoan; urgency=medium
+
+  * Reduce debhelper-compat to 11 to support bionic
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Thu, 07 May 2020 13:22:42 -0400
+
 skopeo (0.2.0-1) eoan; urgency=medium
 
   * Bump to v0.2.0-1

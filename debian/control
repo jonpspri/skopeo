@@ -2,14 +2,13 @@ Source: skopeo
 Section: devel
 Priority: optional
 Maintainer: Jonathan Springer <jonpspri@gmail.com>
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 11),
   bash-completion,
   dh-exec,
   dh-golang,
   go-md2man,
   golang-go,
   libassuan-dev,
-  libbtrfs-dev,
   libdevmapper-dev,
   libgpgme-dev,
   pkg-config
